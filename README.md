@@ -22,5 +22,5 @@ It was observed that the tumor volume decreased as the timepoint increased. This
 
 
 It was also observed that the weight of the mouse had a strong positive correlation with the tumor volume with a n r squared value of 0.71 and a correlation coefficient of 0.84  . 
-![image](https://user-images.githubusercontent.com/99673859/189234395-90071b48-0156-4a3a-a97c-b9166e47d046.png)
+![image](https://user-images.githubusercontent.com/99673859/189234924-36c6bf4b-ca81-4b13-9fa1-1be11881c2e8.png)
 ![image](https://user-images.githubusercontent.com/99673859/189234778-7e0b40d6-f39a-416f-929b-dd2ad3a7e600.png)
